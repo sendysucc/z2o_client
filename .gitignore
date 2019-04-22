@@ -22,3 +22,4 @@ frameworks/runtime-src/proj.android/proj.android.iml
 frameworks/runtime-src/proj.android/app/z2o_client.iml
 frameworks/runtime-src/proj.android/.idea
 frameworks/cocos2d-x/cocos/platform/android/libcocos2dx/libcocos2dx.iml
+frameworks/cocos2d-x/cocos/platform/android/libcocos2dx/build
