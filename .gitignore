@@ -1,6 +1,8 @@
 *.obj
 *.tlog
 
+.vscode
+
 simulator
 frameworks/runtime-src/proj.win32/.vs
 frameworks/runtime-src/proj.win32/Debug.win32
@@ -16,3 +18,7 @@ frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.win32/Debug.win32/libluac
 frameworks/cocos2d-x/external/recast/proj.win32/librecast.vcxproj.user
 frameworks/cocos2d-x/external/recast/proj.win32/Debug.win32
 
+frameworks/runtime-src/proj.android/proj.android.iml
+frameworks/runtime-src/proj.android/app/z2o_client.iml
+frameworks/runtime-src/proj.android/.idea
+frameworks/cocos2d-x/cocos/platform/android/libcocos2dx/libcocos2dx.iml
